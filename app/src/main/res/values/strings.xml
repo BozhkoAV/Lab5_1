@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab5_1</string>
+    <string name="seconds">Seconds elapsed: %d</string>
+</resources>
